@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-<img src="https://raw.githubusercontent.com/learner-lu/picbed/master/QQ%E6%88%AA%E5%9B%BE20220112003016.png" height="350">&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://raw.githubusercontent.com/learner-lu/picbed/master/2.png" height = "350">
+<img src="https://raw.githubusercontent.com/learner-lu/picbed/master/QQ%E6%88%AA%E5%9B%BE20220112003016.png" height="500">&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://raw.githubusercontent.com/learner-lu/picbed/master/2.png" height = "500">
 
 ## Related work:
 - [A CSDN blog](https://blog.csdn.net/qianbin3200896/article/details/104181552?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522164188419916780264030042%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=164188419916780264030042&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-104181552.pc_search_insert_ulrmf&utm_term=%E8%B6%85%E5%88%86%E8%BE%A8%E7%8E%87%E9%87%8D%E5%BB%BA&spm=1018.2226.3001.4187) that describes details about what is super resolution
