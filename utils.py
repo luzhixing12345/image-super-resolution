@@ -166,7 +166,7 @@ def train(args,model,train_dataloader,optimizer,loss_function,epoch_loss,device,
 
     epoch_loss.update(total_loss)
 
-    torch.save(model.state_dict(), f'{args.model_dir}/epoch_{epoch}.pth')
+    #torch.save(model.state_dict(), f'{args.model_dir}/epoch_{epoch}.pth')
     print(f'-----finish training of epoch {epoch}-----')
 
 def calc_psnr(img1, img2):
@@ -193,3 +193,4 @@ def test(model,test_dataloader,epoch_psnr,device,epoch):
     print(f' PSNR = {PSNR} of epoch {epoch}')
     print('\n-----end test-----\n')
     return PSNR
+

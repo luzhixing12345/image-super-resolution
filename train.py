@@ -9,8 +9,8 @@ from utils import RecordUtil, build_dataset, build_model, test, train,prepare_da
 
 def default_argument_parser():
     parser = argparse.ArgumentParser(description="image-super-resolution")
-    parser.add_argument('--train-file', default=3,type=int) 
-    parser.add_argument('--eval-file', default=3,type=int) 
+    parser.add_argument('--train-file', default=4,type=int) 
+    parser.add_argument('--eval-file', default=4,type=int) 
     parser.add_argument('--batch-size', default=32,type=int) 
     parser.add_argument('--num-workers', default=4,type=int) 
     parser.add_argument('--lr', default=1e-4,type=float) 
