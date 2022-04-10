@@ -10,7 +10,7 @@ this project is a reproduction of the famous paper `Learning a Deep Convolutiona
 
 |low-resolution|high-resolution|
 |:--:|:--:|
-|<img src="https://raw.githubusercontent.com/learner-lu/picbed/master/QQ%E6%88%AA%E5%9B%BE20220112003016.png" height="400">|<img src = "https://raw.githubusercontent.com/learner-lu/picbed/master/2.png" height = "400">|
+|<img src="https://raw.githubusercontent.com/learner-lu/picbed/master/QQ%E6%88%AA%E5%9B%BE20220112003016.png">|<img src = "https://raw.githubusercontent.com/learner-lu/picbed/master/2.png">|
 
 ## Related work
 
