@@ -96,13 +96,13 @@ If you are interested in it, you could see this [great job](https://github.com/x
 
   ```shell
   #linux
-  nano ~/.brashrc
+  nano ~/.bashrc
   ```
 
   Add `export HDF5_USE_FILE_LOCKING='FALSE'` in a line, use `Ctrl-X` to exit
 
   ```shell
-  source ~/.barshrc
+  source ~/.bashrc
   ```
 
 - OSError: [WinError 1455] 页面文件太小，无法完成操作。 Error loading "C:\ProgramData\Anaconda3\envs\study_and_test\lib\site-packages\torch\lib\caffe2_detectron_ops_gpu.dll" or one of its dependencies.
